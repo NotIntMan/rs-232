@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/vhdl/tx-project/transmisssion_test_isim_beh.exe" -prj "D:/vhdl/tx-project/transmisssion_test_beh.prj" "work.transmisssion_test" 

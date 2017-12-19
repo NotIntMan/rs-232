@@ -87,4 +87,3 @@ begin
 	in_busy <= logickify(buff0(width + 1));
 	busy <= in_busy;
 end Behavioral;
-

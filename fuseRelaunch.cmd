@@ -1,1 +1,1 @@
--intstyle "ise" -incremental -o "D:/vhdl/tx-project/transmisssion_test_isim_beh.exe" -prj "D:/vhdl/tx-project/transmisssion_test_beh.prj" "work.transmisssion_test" 
+-intstyle "ise" -incremental -o "D:/vhdl/tx-project/rs232tx2rx_isim_beh.exe" -prj "D:/vhdl/tx-project/rs232tx2rx_beh.prj" "work.rs232tx2rx" 
